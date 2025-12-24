@@ -1,11 +1,11 @@
 # 💼 Bruno Lambreht | Data Scientist & Economic Analyst
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=github)](https://bruno-lambreht.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bruno-lambreht)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bruno.lambreht@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bruno-e-lambreht/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:brunolambreht963@gmail.com)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&lines=Data+Scientist+%7C+Economic+Analyst;Bridging+Economics+%26+Technology;Full+Stack+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=700&color=3B82F6&center=true&vCenter=true&multiline=true&width=720&height=70&lines=Data+Scientist+%7C+Economic+Analyst;Bridging+Economics+%26+Technology;Full+Stack+Data+Scientist" alt="Typing banner" />
 </div>
 
 ---
@@ -14,7 +14,7 @@
 
 I'm a passionate **Data Scientist** and **Economic Analyst** who bridges the gap between complex economic theory and practical data-driven solutions. With expertise in statistical modeling, machine learning, and production-grade software engineering, I help organizations transform raw data into actionable insights that drive strategic decision-making.
 
-My unique background combines rigorous economic analysis with modern data science practices, creating a powerful intersection of business acumen and technical expertise. I specialize in building scalable data pipelines, developing predictive models, and deploying ML solutions that solve real-world economic challenges.
+My background combines rigorous economic analysis with modern data science practices—building scalable pipelines, predictive models, and production-ready ML that solve real-world economic challenges.
 
 ---
 
@@ -88,19 +88,6 @@ My unique background combines rigorous economic analysis with modern data scienc
 
 ---
 
-## 🏆 **Achievements & Publications**
-
-### **Publications**
-- **"Deep Learning Approaches to Inflation Forecasting"** - Journal of Economic Computation (202X)
-- **"Machine Learning in Financial Risk Assessment"** - International Conference on Data Science (202X)
-
-### **Awards & Recognition**
-- 🥇 **Best Data Science Project** - [Competition Name], 202X
-- 🏆 **Outstanding Graduate Research** - [University Name], 202X
-- 📊 **Top 10% Data Scientist** - Kaggle Competitions
-
----
-
 ## 🤝 **Let's Connect!**
 
 I'm always interested in collaborating on innovative projects that combine economics, data science, and technology. Whether you're looking for:
@@ -108,7 +95,7 @@ I'm always interested in collaborating on innovative projects that combine econo
 - 📊 Data analysis and modeling consulting
 - 🤖 Machine learning solution development
 - 📈 Economic research and forecasting
-- � DevOps and MLOps implementation
+- 🚀 DevOps and MLOps implementation
 - 💡 Technical writing and education
 
 <div align="center">
