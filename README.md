@@ -100,14 +100,10 @@ What motivates me is solving real-world problems using data—whether by buildin
 
 ## 📈 **GitHub Analytics**
 
-<div align="center">
-  <a href="https://github.com/bruno-lambreht">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bruno-lambreht&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/bruno-lambreht">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bruno-lambreht&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bruno-lambreht&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bruno-lambreht&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+</p>
 
 <br>
 
