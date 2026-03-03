@@ -102,10 +102,10 @@ O que me motiva é resolver problemas reais usando dados — seja construindo mo
 
 <div align="center">
   <a href="https://github.com/bruno-lambreht">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-lambreht&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=bruno-lambreht&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/bruno-lambreht">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-lambreht&layout=compact&langs_count=8&theme=github_dark&border_color=30363d" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-lambreht&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
   </a>
 </div>
 
