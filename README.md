@@ -22,20 +22,20 @@
 
 ## 🎯 **About Me**
 
-Sou estudante de **Ciências Econômicas** na Universidade Federal da Grande Dourados (UFGD) e um entusiasta de **Data Science** que descobriu na programação uma forma de dar vida às teorias econômicas. Minha jornada começou com modelos econométricos e planilhas, mas logo evoluiu para pipelines de dados, machine learning e desenvolvimento full-stack.
+I am an **Economics Science** student at the Federal University of Grande Dourados (UFGD) and a **Data Science** enthusiast who discovered in programming a way to bring economic theories to life. My journey began with econometric models and spreadsheets, but soon evolved into data pipelines, machine learning, and full-stack development.
 
-O que me motiva é resolver problemas reais usando dados — seja construindo modelos de previsão econômica, automatizando análises com bots inteligentes, ou desenvolvendo dashboards interativos. Acredito que a intersecção entre economia e tecnologia é onde surgem as soluções mais impactantes.
+What motivates me is solving real-world problems using data—whether by building economic forecasting models, automating analysis with intelligent bots, or developing interactive dashboards. I believe the intersection of economics and technology is where the most impactful solutions emerge.
 
-> *Quando não estou programando, provavelmente estou estudando séries temporais ou explorando novas ferramentas de visualização de dados.*
+> *When I'm not programming, I'm probably studying time series or exploring new data visualization tools.*
 
 ---
 
-## 🌎 **Idiomas**
+## 🌎 **Languages**
 
-| Idioma | Nível |
+| Language | Proficiency |
 |---|---|
-| 🇧🇷 Português | Nativo |
-| 🇺🇸 Inglês | Intermediário |
+| 🇧🇷 Portuguese | Native |
+| 🇺🇸 English | Intermediate |
 
 ---
 
@@ -67,7 +67,7 @@ O que me motiva é resolver problemas reais usando dados — seja construindo mo
 
 ## 📊 **Key Projects**
 
-> 🔒 *Meus repositórios principais são privados por questão de segurança. Abaixo estão os destaques do meu portfólio.*
+> 🔒 *My main repositories are private for security reasons. Below are the highlights of my portfolio.*
 
 ### **🏦 Economic Forecasting Platform**
 **Technologies**: Python, TensorFlow, FastAPI, Docker, PostgreSQL
