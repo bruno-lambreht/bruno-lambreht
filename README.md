@@ -102,7 +102,7 @@ What motivates me is solving real-world problems using data—whether by buildin
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bruno-lambreht&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bruno-lambreht&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bruno-lambreht&layout=compact&langs_count=8&theme=dark&card_width=350" alt="Top Languages" />
 </p>
 
 <br>
